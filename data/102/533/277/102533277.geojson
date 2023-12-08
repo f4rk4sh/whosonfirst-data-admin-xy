@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.949997,-9.133,-75.949997,-9.133",
-    "geom:latitude":-9.133,
-    "geom:longitude":-75.949997,
+    "geom:bbox":"-76.005099,-9.286962,-76.005099,-9.286962",
+    "geom:latitude":-9.286962,
+    "geom:longitude":-76.005099,
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -88,7 +88,7 @@
     ],
     "wof:id":102533277,
     "wof:lastmodified":1566655131,
-    "wof:name":"Tangier Island Airport",
+    "wof:name":"Tingo María Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
@@ -99,10 +99,10 @@
     ]
 },
   "bbox": [
-    -75.949997,
-    -9.133,
-    -75.949997,
-    -9.133
+    -76.005099,
+    -9.286962,
+    -76.005099,
+    -9.286962
 ],
-  "geometry": {"coordinates":[-75.949997,-9.133],"type":"Point"}
+  "geometry": {"coordinates":[-76.005099,-9.286962],"type":"Point"}
 }

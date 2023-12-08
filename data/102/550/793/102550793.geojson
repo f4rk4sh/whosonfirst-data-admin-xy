@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"116.762001,23.426901,116.762001,23.426901",
-    "geom:latitude":23.426901,
-    "geom:longitude":116.762001,
+    "geom:bbox":"116.501701,23.552181,116.501701,23.552181",
+    "geom:latitude":23.552181,
+    "geom:longitude":116.501701,
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -20,7 +20,7 @@
         "Shantou Waisha Air Base"
     ],
     "name:eng_x_preferred":[
-        "Shantou Waisha Airport"
+        "Jieyang Chaoshan International Airport"
     ],
     "name:eng_x_variant":[
         "SWA",
@@ -84,7 +84,7 @@
         "icao:code":"ZGOW",
         "oa:id":"32400",
         "wd:id":"Q3234808",
-        "wk:page":"Shantou_Airport"
+        "wk:page":"Jieyang_Chaoshan_International_Airport"
     },
     "wof:country":"",
     "wof:geomhash":"8bb238bc5e843b3c7e570e35bcec8fdb",
@@ -100,7 +100,7 @@
     ],
     "wof:id":102550793,
     "wof:lastmodified":1690922488,
-    "wof:name":"Shantou Northeast Airport",
+    "wof:name":"Jieyang Chaoshan International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
@@ -111,10 +111,10 @@
     ]
 },
   "bbox": [
-    116.762001,
-    23.426901,
-    116.762001,
-    23.426901
+    116.501701,
+    23.552181,
+    116.501701,
+    23.552181
 ],
-  "geometry": {"coordinates":[116.762001,23.426901],"type":"Point"}
+  "geometry": {"coordinates":[116.501701,23.552181],"type":"Point"}
 }
