@@ -156,7 +156,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12517513,
-        "wd:id":"Q1109558"
+        "wd:id":"Q1109558",
+        "iata:code": "LJU"
     },
     "wof:country":"",
     "wof:geomhash":"e6b52e8d64f05cee8c6a6f2894654ead",
