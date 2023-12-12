@@ -29,7 +29,8 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12517505
+        "gp:id":12517505,
+        "iata:code":"DKR"
     },
     "wof:country":"",
     "wof:geomhash":"13bd987a9b8290f2ac03088ac1ec7c82",

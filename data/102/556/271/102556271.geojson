@@ -37,7 +37,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":22016347
+        "gp:id":22016347,
+        "iata:code":"LNZ"
     },
     "wof:country":"",
     "wof:geomhash":"82d3173da493c63372292df463f633e7",

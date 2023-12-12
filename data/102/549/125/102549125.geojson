@@ -156,7 +156,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23046924,
-        "wd:id":"Q313587"
+        "wd:id":"Q313587",
+        "iata:code":"DTM"
     },
     "wof:country":"",
     "wof:geomhash":"04bdffa9b589d15631198c0318136d78",

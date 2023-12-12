@@ -183,7 +183,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12523042,
-        "wd:id":"Q847711"
+        "wd:id":"Q847711",
+        "iata:code":"VNO"
     },
     "wof:country":"",
     "wof:geomhash":"c2f11736889e01c47e5dd70d252a0eb0",

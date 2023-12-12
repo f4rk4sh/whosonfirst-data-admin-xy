@@ -68,7 +68,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":56051751
+        "gp:id":56051751,
+        "iata:code":"VIY"
     },
     "wof:country":"",
     "wof:geomhash":"145d4f537a5785a5e955d71629aab445",

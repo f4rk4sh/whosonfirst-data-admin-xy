@@ -35,7 +35,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12513470
+        "gp:id":12513470,
+        "iata:code":"UPG"
     },
     "wof:country":"",
     "wof:geomhash":"1e74087ff912f11983e26cc0d0f1a5a2",

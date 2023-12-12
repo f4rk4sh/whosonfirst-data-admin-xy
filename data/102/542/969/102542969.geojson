@@ -33,7 +33,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12518215
+        "gp:id":12518215,
+        "iata:code":"KBP"
     },
     "wof:country":"",
     "wof:geomhash":"e76cc2bb885c03b0ce7fdb52d110932b",

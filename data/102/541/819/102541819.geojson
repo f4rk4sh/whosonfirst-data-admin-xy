@@ -161,7 +161,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12514067,
-        "wd:id":"Q206349"
+        "wd:id":"Q206349",
+        "iata:code":"NBO"
     },
     "wof:country":"",
     "wof:geomhash":"bf10026323a9f96180871ee2166ed0aa",

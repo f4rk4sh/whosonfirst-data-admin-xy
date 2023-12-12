@@ -99,7 +99,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12517656,
-        "wd:id":"Q580554"
+        "wd:id":"Q580554",
+        "iata:code":"NRK"
     },
     "wof:country":"",
     "wof:geomhash":"96bd3680370ec059b86f2a741b2d9b8f",

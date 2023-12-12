@@ -98,7 +98,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12511173,
-        "wd:id":"Q539298"
+        "wd:id":"Q539298",
+        "iata:code":"FLN"
     },
     "wof:country":"",
     "wof:geomhash":"2330a653f972e14d8f78aca3dc7d77c0",

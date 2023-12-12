@@ -155,7 +155,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12513215,
-        "wd:id":"Q161348"
+        "wd:id":"Q161348",
+        "iata:code":"RMS"
     },
     "wof:country":"",
     "wof:geomhash":"bb236c4ef1e51ea29e3f8c701b100001",

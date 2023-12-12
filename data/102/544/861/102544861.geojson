@@ -72,7 +72,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12512863,
-        "wd:id":"Q1338960"
+        "wd:id":"Q1338960",
+        "iata:code":"ORE"
     },
     "wof:country":"",
     "wof:geomhash":"bc983f9193efc4c6705aaab7eef2da0b",

@@ -38,7 +38,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12510729
+        "gp:id":12510729,
+        "iata:code":"MCY"
     },
     "wof:country":"",
     "wof:geomhash":"c911e238a2bacd97f35d50b567476ed3",

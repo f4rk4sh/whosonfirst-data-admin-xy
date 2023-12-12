@@ -74,7 +74,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28996759,
-        "wd:id":"Q3499338"
+        "wd:id":"Q3499338",
+        "iata:code":"BFK"
     },
     "wof:country":"",
     "wof:geomhash":"12c004945a769b401fae05812c94a45d",

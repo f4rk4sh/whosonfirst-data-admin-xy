@@ -33,7 +33,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12513782
+        "gp:id":12513782,
+        "iata:code":"ETH"
     },
     "wof:country":"",
     "wof:geomhash":"ae0dfbbf9964c53a93aa6215798b52c9",

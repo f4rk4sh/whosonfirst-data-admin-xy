@@ -123,7 +123,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12517536,
-        "wd:id":"Q632277"
+        "wd:id":"Q632277",
+        "iata:code":"LEI"
     },
     "wof:country":"",
     "wof:geomhash":"9614fe568f2e87dba8fb71699a7fde87",

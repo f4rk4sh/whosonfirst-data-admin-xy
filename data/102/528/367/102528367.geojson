@@ -56,7 +56,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12519921,
-        "wd:id":"Q1029739"
+        "wd:id":"Q1029739",
+        "iata:code":"NOT"
     },
     "wof:country":"",
     "wof:geomhash":"c60afa469402970f6edc17f4010f714e",

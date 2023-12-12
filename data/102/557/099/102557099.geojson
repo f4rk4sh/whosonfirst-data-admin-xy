@@ -38,7 +38,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12518112
+        "gp:id":12518112,
+        "iata:code":"LKZ"
     },
     "wof:country":"",
     "wof:geomhash":"317eabe81c69252d3a73e6beca741696",

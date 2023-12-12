@@ -31,7 +31,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12510867
+        "gp:id":12510867,
+        "iata:code":"FPO"
     },
     "wof:country":"",
     "wof:geomhash":"8791f3e9efef95891b20b67867eec3f1",

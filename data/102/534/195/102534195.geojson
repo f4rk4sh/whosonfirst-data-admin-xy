@@ -52,7 +52,8 @@
         "gp:id":12520312,
         "icao:code":"KMRJ",
         "oa:id":"20560",
-        "wd:id":"Q14714476"
+        "wd:id":"Q14714476",
+        "iata:code":"MRJ"
     },
     "wof:country":"",
     "wof:geomhash":"bb6d480c3d00fd8a8f6f26a7d4d3c513",

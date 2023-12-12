@@ -35,7 +35,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12517672
+        "gp:id":12517672,
+        "iata:code":"LPI"
     },
     "wof:country":"",
     "wof:geomhash":"2f332096ac7e15e9469c16cd00a90029",

@@ -39,7 +39,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12512976
+        "gp:id":12512976,
+        "iata:code":"TUF"
     },
     "wof:country":"",
     "wof:geomhash":"403ae07f7cc6e90d1995c07c362c26c2",

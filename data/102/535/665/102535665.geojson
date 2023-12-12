@@ -140,7 +140,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12515442,
-        "wd:id":"Q667001"
+        "wd:id":"Q667001",
+        "iata:code":"FAO"
     },
     "wof:country":"",
     "wof:geomhash":"e3f5948b42fa2a3c126318bac94d9db5",

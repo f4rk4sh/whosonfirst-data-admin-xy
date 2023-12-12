@@ -35,7 +35,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12511913
+        "gp:id":12511913,
+        "iata:code":"YXY"
     },
     "wof:country":"",
     "wof:geomhash":"2691814d0bd8cf5f1769f5bae0a6b68e",

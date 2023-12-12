@@ -96,7 +96,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12515443,
-        "wd:id":"Q1431319"
+        "wd:id":"Q1431319",
+        "iata:code":"FLW"
     },
     "wof:country":"",
     "wof:geomhash":"48f4c032a28b5f0c075ff38225ceb5f3",

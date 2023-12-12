@@ -133,7 +133,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12522888,
-        "wd:id":"Q1406198"
+        "wd:id":"Q1406198",
+        "iata:code":"VCL"
     },
     "wof:country":"",
     "wof:geomhash":"fa585b7957d74688df7e11248250cf0b",

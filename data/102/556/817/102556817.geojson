@@ -111,7 +111,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22481371,
-        "wd:id":"Q349673"
+        "wd:id":"Q349673",
+        "iata:code":"NWI"
     },
     "wof:country":"",
     "wof:geomhash":"7f414af440fa7138467ef60d3f33dfde",

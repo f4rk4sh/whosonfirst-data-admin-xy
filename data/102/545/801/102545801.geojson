@@ -36,7 +36,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12517533
+        "gp:id":12517533,
+        "iata:code":"ABC"
     },
     "wof:country":"",
     "wof:geomhash":"c7f42daad77e3ebc25382c3ab1c88482",

@@ -36,7 +36,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29388564
+        "gp:id":29388564,
+        "iata:code":"VPS"
     },
     "wof:country":"",
     "wof:geomhash":"a9fc6d09445dd4fe3b7c3a1b98a8a4dd",

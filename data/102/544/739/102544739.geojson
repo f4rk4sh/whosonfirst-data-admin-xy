@@ -39,7 +39,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12512881
+        "gp:id":12512881,
+        "iata:code":"NTE"
     },
     "wof:country":"",
     "wof:geomhash":"f101047147ae4d203be9ab28b1f3e943",

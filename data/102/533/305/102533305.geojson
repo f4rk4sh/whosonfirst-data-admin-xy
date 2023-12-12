@@ -60,7 +60,8 @@
         "gp:id":12522044,
         "icao:code":"KEVY",
         "oa:id":"19783",
-        "wd:id":"Q3545131"
+        "wd:id":"Q3545131",
+        "iata:code":"UMM"
     },
     "wof:country":"",
     "wof:geomhash":"20ebbb6c43533143aac9f499d1868f8a",

@@ -35,7 +35,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12522456
+        "gp:id":12522456,
+        "iata:code":"AZA"
     },
     "wof:country":"",
     "wof:geomhash":"75d64dabc4cfef69b5eee3a3b6886e87",

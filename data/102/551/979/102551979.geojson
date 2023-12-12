@@ -86,7 +86,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12514998,
-        "wd:id":"Q3267866"
+        "wd:id":"Q3267866",
+        "iata:code":"LBU"
     },
     "wof:country":"",
     "wof:geomhash":"549b87ce5e9ddd612288c91de6b7dd5e",

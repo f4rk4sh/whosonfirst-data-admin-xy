@@ -91,7 +91,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12520983,
-        "wd:id":"Q390522"
+        "wd:id":"Q390522",
+        "iata:code":"MHV"
     },
     "wof:country":"",
     "wof:geomhash":"820d3843461e017f4e63857afcf4fe31",

@@ -114,7 +114,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22244457,
-        "wd:id":"Q682232"
+        "wd:id":"Q682232",
+        "iata:code":"FDH"
     },
     "wof:country":"",
     "wof:geomhash":"1c48d05417633a9b0330163e75756a9d",

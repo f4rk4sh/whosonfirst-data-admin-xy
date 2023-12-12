@@ -110,7 +110,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12510439,
-        "wd:id":"Q598002"
+        "wd:id":"Q598002",
+        "iata:code":"LAD"
     },
     "wof:country":"",
     "wof:geomhash":"e3fcbd0edefac0a5921631f9a94a5f0b",

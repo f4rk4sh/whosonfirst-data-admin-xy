@@ -73,7 +73,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12514885,
-        "wd:id":"Q1432022"
+        "wd:id":"Q1432022",
+        "iata:code":"MZT"
     },
     "wof:country":"",
     "wof:geomhash":"b677cfd376985106830b373fcad51755",

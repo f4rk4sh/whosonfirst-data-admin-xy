@@ -32,7 +32,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12521972
+        "gp:id":12521972,
+        "iata:code":"FPR"
     },
     "wof:country":"",
     "wof:geomhash":"7aa6f6d5e14bc6fe22ce41c69e475d67",

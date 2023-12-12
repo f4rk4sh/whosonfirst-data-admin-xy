@@ -136,7 +136,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12512692,
-        "wd:id":"Q385191"
+        "wd:id":"Q385191",
+        "iata:code":"HRG"
     },
     "wof:country":"",
     "wof:geomhash":"9d18b3f7f4efec17e5c6fed47a72c3d9",

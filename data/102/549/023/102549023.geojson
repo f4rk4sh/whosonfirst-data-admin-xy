@@ -37,7 +37,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":22257687
+        "gp:id":22257687,
+        "iata:code":"NUE"
     },
     "wof:country":"",
     "wof:geomhash":"249303d502c3b1d28dbfef70568f51f7",

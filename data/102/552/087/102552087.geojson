@@ -35,7 +35,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12513497
+        "gp:id":12513497,
+        "iata:code":"MES"
     },
     "wof:country":"",
     "wof:geomhash":"05f23bec96e38c881077e98a3b6171ca",

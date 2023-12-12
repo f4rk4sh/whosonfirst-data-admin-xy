@@ -53,7 +53,8 @@
         "gp:id":12510691,
         "icao:code":"YCBG",
         "oa:id":"26945",
-        "wd:id":"Q15501"
+        "wd:id":"Q15501",
+        "iata:code":"HBA"
     },
     "wof:country":"",
     "wof:geomhash":"b12a975e0c0adb6851083a871954dec8",

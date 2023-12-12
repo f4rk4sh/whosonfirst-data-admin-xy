@@ -133,7 +133,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12513686,
-        "wd:id":"Q1466205"
+        "wd:id":"Q1466205",
+        "iata:code":"TRV"
     },
     "wof:country":"",
     "wof:geomhash":"f61e5bd2521b37c2220ef81734064402",

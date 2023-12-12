@@ -119,7 +119,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12512608,
-        "wd:id":"Q620706"
+        "wd:id":"Q620706",
+        "iata:code":"JIB"
     },
     "wof:country":"",
     "wof:geomhash":"7f179caade9785f84dc64877717a87cb",

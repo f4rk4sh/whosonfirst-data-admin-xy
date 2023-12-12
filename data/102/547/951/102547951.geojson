@@ -156,7 +156,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22314960,
-        "wd:id":"Q828386"
+        "wd:id":"Q828386",
+        "iata:code":"LIN"
     },
     "wof:country":"",
     "wof:geomhash":"c077fd05266a4f542439b9f19a7f71a7",

@@ -60,7 +60,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12521131,
-        "wd:id":"Q7018922"
+        "wd:id":"Q7018922",
+        "iata:code":"ONP"
     },
     "wof:country":"",
     "wof:geomhash":"d0674b5ae2907ba692704f2ef38ff12e",

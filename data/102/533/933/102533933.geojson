@@ -57,7 +57,8 @@
         "gp:id":12520736,
         "icao:code":"KMVM",
         "oa:id":"20576",
-        "wd:id":"Q10849047"
+        "wd:id":"Q10849047",
+        "iata:code":"MVM"
     },
     "wof:country":"",
     "wof:geomhash":"fc9784eb0294bfc0053b98211cc00073",
