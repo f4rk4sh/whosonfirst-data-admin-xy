@@ -73,7 +73,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12520703,
-        "wd:id":"Q1893607"
+        "wd:id":"Q1893607",
+        "iata:code":"LIZ"
     },
     "wof:country":"",
     "wof:geomhash":"045a18482b2ae32ec66b7b2426f64b99",

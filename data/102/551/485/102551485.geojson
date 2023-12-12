@@ -34,7 +34,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":2306255
+        "gp:id":2306255,
+        "iata:code":"KHH"
     },
     "wof:country":"",
     "wof:geomhash":"b637fa5ef88860d08e63c99e8e2d3d4e",

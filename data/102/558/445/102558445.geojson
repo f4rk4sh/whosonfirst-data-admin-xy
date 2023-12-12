@@ -87,7 +87,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12517735,
-        "wd:id":"Q2739813"
+        "wd:id":"Q2739813",
+        "iata:code":"FJR"
     },
     "wof:country":"",
     "wof:geomhash":"0921e5e596c2b8c16dd02027abfe917e",

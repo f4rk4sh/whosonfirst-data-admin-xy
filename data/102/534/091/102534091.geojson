@@ -61,7 +61,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12520272,
-        "wd:id":"Q5950696"
+        "wd:id":"Q5950696",
+        "iata:code":"HUT"
     },
     "wof:country":"",
     "wof:geomhash":"25b77f4b08360b5e07299c0d6a170dbf",

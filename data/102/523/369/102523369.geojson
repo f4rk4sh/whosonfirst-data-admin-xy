@@ -75,7 +75,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29388133,
-        "wd:id":"Q3565245"
+        "wd:id":"Q3565245",
+        "iata:code":"BLV"
     },
     "wof:country":"",
     "wof:geomhash":"b223fc0bbf7e1cef00618528d8859ad6",

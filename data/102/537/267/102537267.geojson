@@ -106,7 +106,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12517646,
-        "wd:id":"Q2296338"
+        "wd:id":"Q2296338",
+        "iata:code":"KLR"
     },
     "wof:country":"",
     "wof:geomhash":"2d08f0d4fa97e069a23b2c99838ef01b",

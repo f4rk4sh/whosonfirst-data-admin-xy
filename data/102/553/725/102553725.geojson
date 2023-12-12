@@ -74,7 +74,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12510472,
-        "wd:id":"Q1962002"
+        "wd:id":"Q1962002",
+        "iata:code":"IGR"
     },
     "wof:country":"",
     "wof:geomhash":"915f289b480ed5f65ee7f505eda55ff0",

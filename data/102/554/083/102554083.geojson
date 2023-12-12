@@ -64,7 +64,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55965859,
-        "wd:id":"Q3915752"
+        "wd:id":"Q3915752",
+        "iata:code":"YLY"
     },
     "wof:country":"",
     "wof:geomhash":"90f65f2983df888c21e72aaad400f872",

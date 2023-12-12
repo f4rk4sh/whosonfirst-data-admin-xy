@@ -40,7 +40,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12512851
+        "gp:id":12512851,
+        "iata:code":"BSL"
     },
     "wof:country":"",
     "wof:geomhash":"088cd22a658e0a969a1bafe4a1bbb466",

@@ -211,7 +211,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22477104,
-        "wd:id":"Q8712"
+        "wd:id":"Q8712",
+        "iata:code":"LTN"
     },
     "wof:country":"",
     "wof:geomhash":"170759ad041fab3374c8a8654c735aac",

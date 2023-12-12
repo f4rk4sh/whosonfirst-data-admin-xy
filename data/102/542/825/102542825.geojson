@@ -81,7 +81,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12515094,
-        "wd:id":"Q647253"
+        "wd:id":"Q647253",
+        "iata:code":"ENS"
     },
     "wof:country":"",
     "wof:geomhash":"17d2ecd1cde8eb5efe3df3ff550b74dc",

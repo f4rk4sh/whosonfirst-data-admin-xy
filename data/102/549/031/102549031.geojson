@@ -136,7 +136,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22235735,
-        "wd:id":"Q170169"
+        "wd:id":"Q170169",
+        "iata:code":"HAJ"
     },
     "wof:country":"",
     "wof:geomhash":"8c0ddd97dbd5aaed9d75c5bf88a1f5c1",

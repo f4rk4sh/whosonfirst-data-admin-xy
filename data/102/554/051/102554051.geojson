@@ -90,7 +90,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12517595,
-        "wd:id":"Q1431475"
+        "wd:id":"Q1431475",
+        "iata:code":"UVF"
     },
     "wof:country":"",
     "wof:geomhash":"c1c31548b7dddfb027e64081c738a3b9",

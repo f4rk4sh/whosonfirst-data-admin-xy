@@ -39,7 +39,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12518134
+        "gp:id":12518134,
+        "iata:code":"NHT"
     },
     "wof:country":"",
     "wof:geomhash":"9caab507e0a5b7d5b421d29036ff8a6d",

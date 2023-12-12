@@ -77,7 +77,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12513050,
-        "wd:id":"Q323983"
+        "wd:id":"Q323983",
+        "iata:code":"BBJ"
     },
     "wof:country":"",
     "wof:geomhash":"0c52d3843f7590894348453e849c0227",

@@ -105,7 +105,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12515000,
-        "wd:id":"Q1431863"
+        "wd:id":"Q1431863",
+        "iata:code":"LGK"
     },
     "wof:country":"",
     "wof:geomhash":"3c5c6c6495b52029def986cee5e71c06",

@@ -62,7 +62,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12519100,
-        "wd:id":"Q472049"
+        "wd:id":"Q472049",
+        "iata:code":"MER"
     },
     "wof:country":"",
     "wof:geomhash":"bf9a336065680e65d4180da5442ffc11",

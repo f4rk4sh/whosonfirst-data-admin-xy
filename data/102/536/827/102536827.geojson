@@ -100,7 +100,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12512552,
-        "wd:id":"Q922954"
+        "wd:id":"Q922954",
+        "iata:code":"OSR"
     },
     "wof:country":"",
     "wof:geomhash":"8e89b9a2f760c02b82bb7b7dc5e367a5",

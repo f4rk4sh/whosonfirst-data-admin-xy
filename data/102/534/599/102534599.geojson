@@ -110,7 +110,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12511374,
-        "wd:id":"Q381653"
+        "wd:id":"Q381653",
+        "iata:code":"VCP"
     },
     "wof:country":"",
     "wof:geomhash":"96cb89af2997f810c825de9bf6e30cb8",

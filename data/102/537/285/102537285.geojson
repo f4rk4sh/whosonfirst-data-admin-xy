@@ -120,7 +120,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12517645,
-        "wd:id":"Q1431971"
+        "wd:id":"Q1431971",
+        "iata:code":"LLA"
     },
     "wof:country":"",
     "wof:geomhash":"466fd4d4d529bb295427fcfff24af7a3",

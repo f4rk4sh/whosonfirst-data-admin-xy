@@ -53,7 +53,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12522039,
-        "wd:id":"Q7636403"
+        "wd:id":"Q7636403",
+        "iata:code":"MSV"
     },
     "wof:country":"",
     "wof:geomhash":"31394cb4031ae665ede089d67b373b96",

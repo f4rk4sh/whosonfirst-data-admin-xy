@@ -98,7 +98,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28349319,
-        "wd:id":"Q772391"
+        "wd:id":"Q772391",
+        "iata:code":"COS"
     },
     "wof:country":"",
     "wof:geomhash":"ea2b674c8606433dbb4bf97f8903fa4d",

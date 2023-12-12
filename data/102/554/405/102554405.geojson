@@ -35,7 +35,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12511624
+        "gp:id":12511624,
+        "iata:code":"YQQ"
     },
     "wof:country":"",
     "wof:geomhash":"5286795ec5de4c2ca540064fdef723fe",

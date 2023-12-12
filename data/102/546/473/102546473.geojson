@@ -34,7 +34,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12523044
+        "gp:id":12523044,
+        "iata:code":"RAK"
     },
     "wof:country":"",
     "wof:geomhash":"b251855e0a9a083e1c3ac208f7b94735",

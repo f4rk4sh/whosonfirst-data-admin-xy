@@ -97,7 +97,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12513451,
-        "wd:id":"Q1430731"
+        "wd:id":"Q1430731",
+        "iata:code":"JOG"
     },
     "wof:country":"",
     "wof:geomhash":"5f90fbdd7ff3e517de7cfbaca3174295",

@@ -103,7 +103,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12517626,
-        "wd:id":"Q1433305"
+        "wd:id":"Q1433305",
+        "iata:code":"OSD"
     },
     "wof:country":"",
     "wof:geomhash":"b841de7bf1e2e690c9e4185e80539477",

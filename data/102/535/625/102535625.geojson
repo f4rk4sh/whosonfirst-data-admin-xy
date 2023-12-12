@@ -43,7 +43,8 @@
         "gp:id":12515249,
         "icao:code":"OPMK",
         "oa:id":"41621",
-        "wd:id":"Q12693970"
+        "wd:id":"Q12693970",
+        "iata:code":"MPD"
     },
     "wof:country":"",
     "wof:geomhash":"936a07bf6e57b9b2dad3c8480377a6d0",

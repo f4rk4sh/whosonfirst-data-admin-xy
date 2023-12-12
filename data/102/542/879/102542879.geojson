@@ -33,7 +33,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12517864
+        "gp:id":12517864,
+        "iata:code":"DJE"
     },
     "wof:country":"",
     "wof:geomhash":"fa36a7678498426af26c3eced1bb0fb3",

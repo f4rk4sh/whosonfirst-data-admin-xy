@@ -112,7 +112,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22206577,
-        "wd:id":"Q673760"
+        "wd:id":"Q673760",
+        "iata:code":"FMO"
     },
     "wof:country":"",
     "wof:geomhash":"8521536d76370be653317cd3fa758052",

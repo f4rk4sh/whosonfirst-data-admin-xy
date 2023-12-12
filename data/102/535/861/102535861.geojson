@@ -164,7 +164,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12517889,
-        "wd:id":"Q430490"
+        "wd:id":"Q430490",
+        "iata:code":"ESB"
     },
     "wof:country":"",
     "wof:geomhash":"07477d0efcce436705fbb8a76e615e84",

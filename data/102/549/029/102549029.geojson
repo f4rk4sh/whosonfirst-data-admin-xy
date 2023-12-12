@@ -134,7 +134,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22275261,
-        "wd:id":"Q668382"
+        "wd:id":"Q668382",
+        "iata:code":"LEJ"
     },
     "wof:country":"",
     "wof:geomhash":"3ca8da5ff596acb98489058d34ef11e9",

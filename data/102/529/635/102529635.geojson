@@ -62,7 +62,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12518737,
-        "wd:id":"Q6350082"
+        "wd:id":"Q6350082",
+        "iata:code":"JRF"
     },
     "wof:country":"",
     "wof:geomhash":"ebf040da6df949875d5048526b41f1dd",

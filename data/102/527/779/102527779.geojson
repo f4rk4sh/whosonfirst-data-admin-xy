@@ -69,7 +69,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12522209,
-        "wd:id":"Q6588311"
+        "wd:id":"Q6588311",
+        "iata:code":"TKF"
     },
     "wof:country":"",
     "wof:geomhash":"28d78a7bb68feb4224a25ce2d3689659",

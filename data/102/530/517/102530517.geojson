@@ -55,7 +55,8 @@
         "gp:id":12521640,
         "icao:code":"KFOT",
         "oa:id":"19889",
-        "wd:id":"Q7359801"
+        "wd:id":"Q7359801",
+        "iata:code":"FOT"
     },
     "wof:country":"",
     "wof:geomhash":"cc311c42a7daaf8c5541a67b6a4420ae",

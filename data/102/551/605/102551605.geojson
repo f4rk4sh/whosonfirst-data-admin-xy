@@ -152,7 +152,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12510901,
-        "wd:id":"Q740392"
+        "wd:id":"Q740392",
+        "iata:code":"SJJ"
     },
     "wof:country":"",
     "wof:geomhash":"5e9b8dfdef23ccd42ad42a817fe8ff47",

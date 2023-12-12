@@ -84,7 +84,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23509228,
-        "wd:id":"Q577946"
+        "wd:id":"Q577946",
+        "iata:code":"ABQ"
     },
     "wof:country":"",
     "wof:geomhash":"4b714e9ee5b802ef933f9d75c279057d",

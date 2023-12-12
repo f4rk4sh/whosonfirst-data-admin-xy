@@ -49,7 +49,8 @@
         "gp:id":12521091,
         "icao:code":"KVIQ",
         "oa:id":"21324",
-        "wd:id":"Q14714559"
+        "wd:id":"Q14714559",
+        "iata:code":"VIQ"
     },
     "wof:country":"",
     "wof:geomhash":"27a632dacb858abe2a4ef97b08888f37",

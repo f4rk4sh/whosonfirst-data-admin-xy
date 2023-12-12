@@ -96,7 +96,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12518087,
-        "wd:id":"Q1231271"
+        "wd:id":"Q1231271",
+        "iata:code":"FAB"
     },
     "wof:country":"",
     "wof:geomhash":"dda8a3082aa6bfc0c7230fbca90d7cad",

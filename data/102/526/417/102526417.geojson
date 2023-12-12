@@ -73,7 +73,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12519273,
-        "wd:id":"Q1656573"
+        "wd:id":"Q1656573",
+        "iata:code":"BEC"
     },
     "wof:country":"",
     "wof:geomhash":"50d308cb58079c3e5e5fd65e178a0a58",

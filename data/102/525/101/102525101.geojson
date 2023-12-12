@@ -65,7 +65,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12521031,
-        "wd:id":"Q3887719"
+        "wd:id":"Q3887719",
+        "iata:code": "MMU"
     },
     "wof:country":"",
     "wof:geomhash":"93c693c9796634cce1949dd2d449d847",

@@ -36,7 +36,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":22656496
+        "gp:id":22656496,
+        "iata:code":"LEN"
     },
     "wof:country":"",
     "wof:geomhash":"48df25ac33074b11f432f724590c189f",

@@ -56,7 +56,8 @@
         "gp:id":12513196,
         "icao:code":"EDXN",
         "oa:id":"28671",
-        "wd:id":"Q1433768"
+        "wd:id":"Q1433768",
+        "iata:code":"FCN"
     },
     "wof:country":"",
     "wof:geomhash":"f5bd82319021d05b37d13f3304ff7b58",

@@ -129,7 +129,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22480195,
-        "wd:id":"Q8975"
+        "wd:id":"Q8975",
+        "iata:code":"NCL"
     },
     "wof:country":"",
     "wof:geomhash":"1feb0677ad1fdd92946bd1f241aea0be",

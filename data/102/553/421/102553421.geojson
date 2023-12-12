@@ -34,7 +34,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":24554862
+        "gp:id":24554862,
+        "iata:code":"ING"
     },
     "wof:country":"",
     "wof:geomhash":"57411cf012af04a3014815d24a4a5254",

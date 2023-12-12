@@ -36,7 +36,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12517260
+        "gp:id":12517260,
+        "iata:code":"VKO"
     },
     "wof:country":"",
     "wof:geomhash":"6c9ccdabe816de14ab9b7a12c51e569d",

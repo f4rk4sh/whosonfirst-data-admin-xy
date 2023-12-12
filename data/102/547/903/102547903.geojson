@@ -112,7 +112,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56049650,
-        "wd:id":"Q616894"
+        "wd:id":"Q616894",
+        "iata:code":"KBV"
     },
     "wof:country":"",
     "wof:geomhash":"3b828f1f030bad7e2487702d657920e2",

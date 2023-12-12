@@ -35,7 +35,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12517792
+        "gp:id":12517792,
+        "iata:code":"UTH"
     },
     "wof:country":"",
     "wof:geomhash":"11edde2aa9b645858e6d2ec80774b3ec",

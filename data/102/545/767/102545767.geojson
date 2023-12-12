@@ -36,7 +36,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12517564
+        "gp:id":12517564,
+        "iata:code":"REU"
     },
     "wof:country":"",
     "wof:geomhash":"fc24434a0e68427cbab6947f46830ffb",

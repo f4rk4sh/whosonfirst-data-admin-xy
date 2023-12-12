@@ -66,7 +66,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29388389,
-        "wd:id":"Q2875880"
+        "wd:id":"Q2875880",
+        "iata:code":"NPT"
     },
     "wof:country":"",
     "wof:geomhash":"95c4642d12f74799bc8070e67ec5f5e5",

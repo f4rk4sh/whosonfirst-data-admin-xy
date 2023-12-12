@@ -132,7 +132,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22462097,
-        "wd:id":"Q8977"
+        "wd:id":"Q8977",
+        "iata:code":"EMA"
     },
     "wof:country":"",
     "wof:geomhash":"af6c2d8b14a8de5b9480993a70d926de",

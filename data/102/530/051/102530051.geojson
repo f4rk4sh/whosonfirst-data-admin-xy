@@ -60,7 +60,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12521187,
-        "wd:id":"Q2902311"
+        "wd:id":"Q2902311",
+        "iata:code":"OCF"
     },
     "wof:country":"",
     "wof:geomhash":"609f4f5981b7ae92420e325177b188e2",

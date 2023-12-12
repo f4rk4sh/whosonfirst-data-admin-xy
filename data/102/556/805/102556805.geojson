@@ -106,7 +106,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22461793,
-        "wd:id":"Q667216"
+        "wd:id":"Q667216",
+        "iata:code":"MME"
     },
     "wof:country":"",
     "wof:geomhash":"f539116867a801855fdb2005b44e2414",

@@ -148,7 +148,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22473264,
-        "wd:id":"Q8727"
+        "wd:id":"Q8727",
+        "iata:code":"LPL"
     },
     "wof:country":"",
     "wof:geomhash":"c79b3cf711adc95927567b815ebbee56",

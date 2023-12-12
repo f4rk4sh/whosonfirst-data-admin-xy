@@ -37,7 +37,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12510857
+        "gp:id":12510857,
+        "iata:code":"OBL"
     },
     "wof:country":"",
     "wof:geomhash":"0131529661901323396b1fbeec197a0d",

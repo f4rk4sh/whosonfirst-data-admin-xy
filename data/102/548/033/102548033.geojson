@@ -77,7 +77,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12513827,
-        "wd:id":"Q1056589"
+        "wd:id":"Q1056589",
+        "iata:code":"TAR"
     },
     "wof:country":"",
     "wof:geomhash":"094ee5cdbe8ee18ea9114b06afaee6bb",

@@ -81,7 +81,8 @@
         "gp:id":12513610,
         "icao:code":"VEJH",
         "oa:id":"26505",
-        "wd:id":"Q2902684"
+        "wd:id":"Q2902684",
+        "iata:code":"JRG"
     },
     "wof:country":"",
     "wof:geomhash":"d94967b67699f273acf461e533c6971c",

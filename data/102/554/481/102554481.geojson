@@ -89,7 +89,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12511671,
-        "wd:id":"Q2735729"
+        "wd:id":"Q2735729",
+        "iata:code":"YFC"
     },
     "wof:country":"",
     "wof:geomhash":"8bcd2c48fb053dcaa4f016c7b1ce536f",

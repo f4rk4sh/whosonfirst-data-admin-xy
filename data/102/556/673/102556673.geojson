@@ -111,7 +111,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12515114,
-        "wd:id":"Q762039"
+        "wd:id":"Q762039",
+        "iata:code":"KSU"
     },
     "wof:country":"",
     "wof:geomhash":"6ddc10923521478583b5c2a37ce7dd51",

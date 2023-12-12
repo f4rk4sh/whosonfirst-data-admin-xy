@@ -51,7 +51,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12518170
+        "gp:id":12518170,
+        "iata:code":"VLY"
     },
     "wof:country":"",
     "wof:geomhash":"b7a5f0e53a544ab48b2a5d61f5db1d59",

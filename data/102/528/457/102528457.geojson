@@ -60,7 +60,8 @@
         "gp:id":12519724,
         "icao:code":"KFHB",
         "oa:id":"18881",
-        "wd:id":"Q5444566"
+        "wd:id":"Q5444566",
+        "iata:code":"CKR"
     },
     "wof:country":"",
     "wof:geomhash":"2406877ee5162d15f3fae15d13ba8e66",
